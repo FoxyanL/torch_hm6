@@ -1,1 +1,17 @@
 env
+weights/
+homework7/**__pycache__**
+venv/
+.vscode/
+.idea/
+.pytest_cache/
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+homework7/onnx_benchmark.md
+homework7/pytorch_benchmark_report.md
+homework7/benchmark_results.md
+homework7/data/
